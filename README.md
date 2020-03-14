@@ -1,4 +1,6 @@
-Membuat project crud menggunakan Laravel<br>
+<h3>Membuat project crud menggunakan Laravel<br>
+</h3>
+
 
 1.Buatlah database MySQL pada phpmyadmin dengan nama "db_univ"<br>
 2.jalankan command "php artisan migrate"<br>
